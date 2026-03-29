@@ -1,4 +1,4 @@
-﻿package com.elvinjhon.gigabeat;
+package com.elvinjhon.gigabeat;
 
 import android.view.LayoutInflater;
 import android.view.View;

@@ -1,4 +1,4 @@
-﻿name: Build Gigabeat APK
+name: Build Gigabeat APK
 
 on:
   push:

@@ -1,4 +1,4 @@
-﻿package com.elvinjhon.gigabeat;
+package com.elvinjhon.gigabeat;
 
 import android.content.Intent;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-﻿package com.elvinjhon.gigabeat;
+package com.elvinjhon.gigabeat;
 
 import android.media.AudioAttributes;
 import android.media.MediaPlayer;

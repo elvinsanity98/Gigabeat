@@ -1,1 +1,1 @@
-﻿# Gigabeat ProGuard Rules
+# Gigabeat ProGuard Rules

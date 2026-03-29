@@ -1,4 +1,4 @@
-﻿package com.elvinjhon.gigabeat;
+package com.elvinjhon.gigabeat;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
