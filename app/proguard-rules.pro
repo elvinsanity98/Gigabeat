@@ -1,0 +1,1 @@
+﻿# Gigabeat ProGuard Rules

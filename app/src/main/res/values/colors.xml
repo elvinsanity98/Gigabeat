@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#0D0D0D</color>
+    <color name="surface">#1A1A2E</color>
+    <color name="player_bg">#0A0A14</color>
+    <color name="primary">#8B5CF6</color>
+    <color name="primary_dark">#7C3AED</color>
+    <color name="secondary">#06B6D4</color>
+    <color name="subtext">#9CA3AF</color>
+    <color name="hint">#6B7280</color>
+    <color name="seek_bg">#374151</color>
+</resources>
